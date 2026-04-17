@@ -1,32 +1,32 @@
-<!-- BANNER -->
+<h1 align="center">✨ Olá, Bem vindo ao meu Universo! ✨</h1>
+
 <p align="center" >
-  <img src="Pronta para aonde o destino me levar em seguida (1) (1).png" />
+  <img src="Pronta para aonde o destino me levar em seguida (1) (2).png" />
 </p>
 
-<h1 align="center">✨ Seu Nome aqui ✨</h1>
+<h3 align="center"> Me chamo Isabela Brandão </h3>
 
 <p align="center">
-  🚀 Desenvolvedor(a) | 💻 Sua área | 🎯 Seu objetivo
+  Front-End Developer | UI • UX
 </p>
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 😎 Sobre mim
 
-- 💻 Desenvolvedor(a) focado(a) em **[sua área: Front-end | Back-end | Full Stack]**
-- 📚 Estudando: **[tecnologias atuais]**
-- 🎯 Objetivo: **[ex: trabalhar com tecnologia / remoto / internacional]**
-- 🧠 Interesse em: **IA | UI/UX | Automação | etc**
-- 📩 Contato: **seuemail@email.com**
+- 💻 Desenvolvedora Junior focada em: **Front-end |  UI • UX**
+- 📚 Estudando: **React | JavaScript | CSS | Design de Interfaces**
+- 🎯 Objetivo: **Trabalhar com Front-End Developer / Remoto / Presencial**
+- 🧠 Interesse em: **IA | UI/UX | Front-end | Areas Afins**
 
 ---
 
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/seuuser"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://seusite.com"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/isabela-brandaoo/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:isabelabrandaonunes@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://lnkd.in/ex2n6Vjs"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge"></a>
 </p>
 
 ---
