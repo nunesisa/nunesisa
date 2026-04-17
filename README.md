@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,github" />
 
 </p>
 
@@ -44,26 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSER&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-- 🔗 [Projeto 1](link) — descrição rápida
-- 🔗 [Projeto 2](link) — descrição rápida
-- 🔗 [Projeto 3](link) — descrição rápida
-
----
-
-## 🧠 Tech Stack
